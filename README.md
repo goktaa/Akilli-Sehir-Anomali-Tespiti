@@ -1,0 +1,1 @@
+# Akilli-Sehir-Anomali-Tespiti
