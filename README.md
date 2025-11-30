@@ -342,7 +342,7 @@ kırpma
 
 gürültü
 
-🔍 6. Kullanılan Teknolojiler
+ 6. Kullanılan Teknolojiler
 
 Python
 
